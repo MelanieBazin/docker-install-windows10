@@ -20,4 +20,12 @@ Au redémarrage, Docker va se lancer. Une icône en forme de baleine va apparaî
 
 ![](img/Docker_win_02.png)
 
-Si vous avez besoin de modifier certains paramètres de Docker (comment la quantité de mémoire vive disponible), cliquez-droit sur l'icône de Docker puis sélectionnez *Settings* (puis *Advanced* pour la mémoire vive).
+
+## Configuration
+
+Vous aurez besoin d'autoriser Docker à accéder au disque *C*. Pour cela, cliquez-droit sur l'icône de Docker puis sélectionnez *Settings* puis *Shared Drives*. Cochez alors la case à côté de *C*, cliquez sur *Apply*. Entrez votre mot de passe Windows puis validez encore une fois.
+
+![](img/Docker_win_03.png)
+
+
+Si vous avez besoin de modifier la quantité de mémoire vive disponible, cliquez-droit sur l'icône de Docker puis sélectionnez *Settings* puis *Advanced*.
