@@ -6,7 +6,9 @@ Dans la section *Install Docker for Windows desktop app*, cliquez sur le lien *d
 
 ![](img/Docker_win_01.png)
 
-Une fois téléchargée, lancez l'application *Docker for Windows Installer*.
+Le téléchargement du fichier *Docker for Windows Installer* va débuter. Soyez patient car le fichier fait plus de 500 Mo.
+
+Une fois téléchargé, lancez le programme d'installation (*Docker for Windows Installer*).
 
 Autorisez l'application à apporter des mofifications à votre appareil.
 
